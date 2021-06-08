@@ -15,7 +15,7 @@ async def start_(client: Client, message: Message):
 \nI Grubunuzun sesli sohbetinde müzik çalabilirim
 Benim Tarafımdan korunur @yoksunhala  ❤
 \nTo adresinden bize ulaşın. @CanmuzikSupport
-\nKullanılabilir komutların /help listesine basın..
+\nKullanılabilir komutların /help listesine basın.
  </b>""",
       
        
